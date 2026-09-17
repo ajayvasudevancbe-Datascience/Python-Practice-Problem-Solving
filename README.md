@@ -12,7 +12,7 @@ A collection of practical Python programming problems covering fundamentals, fun
 
 5. **Applying Logic to Large Data Sets**: String methods, list operations and data processing.
 
-#**Summary**
+# **Summary**
 
 A practical collection covering Python fundamentals, functions, scope, conditions, loops, nested loops, recursion, strings, lists, and debugging.
 
